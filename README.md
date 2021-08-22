@@ -52,7 +52,7 @@ to select the model with highest **'f1 score'**.
 
 ### Model Evaluation
 
-I fit the final model on the train data and predicted the survival status for the test data and obtained the below result-
+I fit the final model on the train data and predicted the heart disease presence for the test data and obtained the below result-
 
 | Metric        | Score    |
 | :--------     | :------- |
