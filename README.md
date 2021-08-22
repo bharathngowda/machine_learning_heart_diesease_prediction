@@ -1,5 +1,5 @@
 
-# Hear Disease Prediction
+# Heart Disease Prediction
 
 ![App Screenshot](https://github.com/bharathngowda/machine_learning_heart_diesease_prediction/blob/main/dataset-cover.jpg)
 
