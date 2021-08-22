@@ -1,7 +1,7 @@
 
 # Titanic - Machine Learning from Disaster
 
-![App Screenshot](https://github.com/bharathngowda/machine_learning_titanic_survival_prediction/blob/main/titanic.jpg)
+![App Screenshot](https://github.com/bharathngowda/machine_learning_heart_diesease_prediction/blob/main/dataset-cover.jpg)
 
 ### Table of Contents
 
