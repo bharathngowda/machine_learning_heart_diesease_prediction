@@ -60,8 +60,6 @@ I fit the final model on the train data and predicted the heart disease presence
 | Precision	    |0.803922  |
 | Recall	    |0.820000  |
 | Accuracy	    |0.791209  |
-| ROC	        |0.788049  |
-| Cohens Kappa	|0.577365  |
 
 Confusion Matrix and ROC Curve
 
